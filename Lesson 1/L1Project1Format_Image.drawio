@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="6zO9OLVVkzpvtYfcwyrz">
+    <mxGraphModel dx="786" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AbxNBPtKuFHczfkxIL5O-1" value="Start Terminator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AbxNBPtKuFHczfkxIL5O-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99.5" y="-760" as="sourcePoint" />
+            <mxPoint x="99.5" y="-700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-1" value="Input the No. Asked" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="SzzMKDqSO06GU3vXFWGD-1" target="SzzMKDqSO06GU3vXFWGD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="-580" as="sourcePoint" />
+            <mxPoint x="240" y="-670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SzzMKDqSO06GU3vXFWGD-4" target="SzzMKDqSO06GU3vXFWGD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SzzMKDqSO06GU3vXFWGD-4" target="SzzMKDqSO06GU3vXFWGD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-4" value="Check if the No. is Divisible By 2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-710" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SzzMKDqSO06GU3vXFWGD-7" target="SzzMKDqSO06GU3vXFWGD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-7" value="As given no. can be divisible by 2, no. is even." style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-9" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SzzMKDqSO06GU3vXFWGD-10" target="SzzMKDqSO06GU3vXFWGD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-10" value="Even" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-12" value="End Terminator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SzzMKDqSO06GU3vXFWGD-14" target="SzzMKDqSO06GU3vXFWGD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-14" value="As given no. can&#39;t be divisible by 2, no. is odd" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-16" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SzzMKDqSO06GU3vXFWGD-17" target="SzzMKDqSO06GU3vXFWGD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzzMKDqSO06GU3vXFWGD-17" value="Odd" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
