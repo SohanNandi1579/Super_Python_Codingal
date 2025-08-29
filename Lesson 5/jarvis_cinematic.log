@@ -1,0 +1,27 @@
+[2025-08-12T10:53:32.867103+00:00] Memory loaded. facts: 0 history: 2
+[2025-08-12T10:53:33.210969+00:00] Selected voice: Microsoft David Desktop - English (United States)
+[2025-08-12T10:53:33.212485+00:00] TTS initialized; voice hint: english
+[2025-08-12T10:53:34.401276+00:00] Calibrating microphone ambient noise for 1.2 s ...
+[2025-08-12T10:53:35.606499+00:00] Calibration done. measured energy_threshold: 40.95453026890324
+[2025-08-12T10:53:35.608027+00:00] Using fixed energy_threshold: 300
+[2025-08-12T10:53:35.766330+00:00] No OpenAI key or client; running fallback brain.
+[2025-08-12T10:53:35.781541+00:00] No OpenAI key or client; running fallback brain.
+[2025-08-12T10:53:35.782603+00:00] Starting Jarvis Cinematic
+[2025-08-12T10:53:42.648850+00:00] Listen timeout — no speech detected.
+[2025-08-12T10:53:48.455874+00:00] Listen timeout — no speech detected.
+[2025-08-12T10:53:54.256497+00:00] Listen timeout — no speech detected.
+[2025-08-12T10:54:00.938144+00:00] Recognized: hello Jarvis Shlok
+[2025-08-12T10:54:00.942553+00:00] OpenAI client missing -> using fallback for prompt: hello Jarvis Shlok
+[2025-08-12T10:54:13.018392+00:00] Recognized: Show Me The Meaning of impeccable
+[2025-08-12T10:54:13.020837+00:00] OpenAI client missing -> using fallback for prompt: Show Me The Meaning of impeccable
+[2025-08-12T10:54:18.783930+00:00] Listen timeout — no speech detected.
+[2025-08-12T10:54:22.954307+00:00] Speech was detected but could not be understood.
+[2025-08-29T17:02:58.762211+00:00] Memory loaded. facts: 0 history: 2
+[2025-08-29T17:02:59.465458+00:00] Selected voice: Microsoft David Desktop - English (United States)
+[2025-08-29T17:02:59.466462+00:00] TTS initialized; voice hint: english
+[2025-08-29T17:03:00.168941+00:00] Calibrating microphone ambient noise for 1.2 s ...
+[2025-08-29T17:03:01.363810+00:00] Calibration done. measured energy_threshold: 3982.978096300969
+[2025-08-29T17:03:01.364811+00:00] Using fixed energy_threshold: 3982
+[2025-08-29T17:03:01.447997+00:00] No OpenAI key or client; running fallback brain.
+[2025-08-29T17:03:01.451869+00:00] No OpenAI key or client; running fallback brain.
+[2025-08-29T17:03:01.453881+00:00] Starting Jarvis Cinematic

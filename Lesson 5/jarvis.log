@@ -1,0 +1,38 @@
+[2025-08-12T10:46:55.511928+00:00] MemoryManager initialized. Facts: 0, History entries: 2
+[2025-08-12T10:46:56.947484+00:00] Selected TTS voice: Microsoft David Desktop - English (United States)
+[2025-08-12T10:46:56.949481+00:00] Speaker initialized. Rate=160, Voice=Microsoft David Desktop - English (United States)
+[2025-08-12T10:46:56.950482+00:00] No OpenAI API key provided; running in fallback mode.
+[2025-08-12T10:46:56.952479+00:00] No OpenAI API key provided; running in fallback mode.
+[2025-08-12T10:46:56.953479+00:00] Starting Jarvis Ultra
+[2025-08-12T10:46:56.954480+00:00] Startup checks completed.
+[2025-08-12T10:46:59.306941+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:46:59.803077+00:00] Calibration done. Energy threshold: 170.4703513705073
+[2025-08-12T10:47:06.580649+00:00] Speech detected but not understood.
+[2025-08-12T10:47:07.162198+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:07.518885+00:00] Calibration done. Energy threshold: 0.3074526866952068
+[2025-08-12T10:47:12.680432+00:00] Speech detected but not understood.
+[2025-08-12T10:47:13.418890+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:13.773919+00:00] Calibration done. Energy threshold: 2.3320190141944903
+[2025-08-12T10:47:16.755713+00:00] Recognized: open Chrome
+[2025-08-12T10:47:17.543643+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:17.898673+00:00] Calibration done. Energy threshold: 471.6370777353897
+[2025-08-12T10:47:21.907719+00:00] Speech detected but not understood.
+[2025-08-12T10:47:22.767615+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:23.121812+00:00] Calibration done. Energy threshold: 305.9066793002908
+[2025-08-12T10:47:32.526393+00:00] Recognized: Open Chrome and tell me the meaning of
+[2025-08-12T10:47:33.429460+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:33.784168+00:00] Calibration done. Energy threshold: 370.10542560679676
+[2025-08-12T10:47:44.090644+00:00] Recognized: Open Chrome and tell me the meaning of impeccable
+[2025-08-12T10:47:45.117467+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:45.473265+00:00] Calibration done. Energy threshold: 449.28035164615653
+[2025-08-12T10:47:48.812652+00:00] Speech detected but not understood.
+[2025-08-12T10:47:49.591424+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:49.945874+00:00] Calibration done. Energy threshold: 64.59746416832463
+[2025-08-12T10:47:51.980601+00:00] Speech detected but not understood.
+[2025-08-12T10:47:52.697060+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:53.051353+00:00] Calibration done. Energy threshold: 49.626489500397895
+[2025-08-12T10:47:58.056495+00:00] Listen timeout (no speech detected).
+[2025-08-12T10:47:58.828378+00:00] Calibrating ambient noise for 0.35s
+[2025-08-12T10:47:59.183094+00:00] Calibration done. Energy threshold: 0.29787721108866066
+[2025-08-12T10:48:02.067873+00:00] Speech detected but not understood.
+[2025-08-12T10:48:02.863292+00:00] Calibrating ambient noise for 0.35s

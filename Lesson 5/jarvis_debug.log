@@ -1,0 +1,26 @@
+[2025-08-10T09:13:13.818683 UTC] Selected TTS voice: Microsoft David Desktop - English (United States)
+[2025-08-10T09:13:13.820811 UTC] OpenAI key missing.
+[2025-08-10T09:13:15.873564 UTC] [Listener] calibrating ambient noise...
+[2025-08-10T09:13:16.448885 UTC] [Listener] energy threshold: 142.8271464624296
+[2025-08-10T09:13:21.747072 UTC] [Listener] speech detected but not understood
+[2025-08-10T09:13:22.335403 UTC] [Listener] calibrating ambient noise...
+[2025-08-10T09:13:22.747336 UTC] [Listener] energy threshold: 142.1945779103413
+[2025-08-10T09:13:27.730624 UTC] [Listener] WaitTimeoutError - no speech detected
+[2025-08-10T09:13:28.361770 UTC] [Listener] calibrating ambient noise...
+[2025-08-10T09:13:28.772490 UTC] [Listener] energy threshold: 141.97200954352624
+[2025-08-10T09:13:33.013183 UTC] [Listener] recognized: hello this is 24
+[2025-08-10T09:13:33.014139 UTC] Speech received without wake word; ignoring to avoid accidental triggers.
+[2025-08-10T09:13:33.601863 UTC] [Listener] calibrating ambient noise...
+[2025-08-10T09:13:34.014051 UTC] [Listener] energy threshold: 142.08414153552965
+[2025-08-10T09:13:38.296337 UTC] [Listener] recognized: Punjabi film
+[2025-08-10T09:13:38.296337 UTC] Heard short sentence without wake word; trying direct: punjabi film
+[2025-08-10T09:13:38.297674 UTC] [AI] No OpenAI client available - using fallback.
+[2025-08-10T09:13:38.297674 UTC] [AI] Using fallback brain for prompt: punjabi film
+[2025-08-10T09:13:39.082226 UTC] [Listener] calibrating ambient noise...
+[2025-08-10T09:13:39.493719 UTC] [Listener] energy threshold: 142.3963605833094
+[2025-08-10T09:13:43.101403 UTC] [Listener] recognized: jobs exit
+[2025-08-10T09:13:43.102404 UTC] Heard short sentence without wake word; trying direct: jobs exit
+[2025-08-10T09:13:43.102404 UTC] [AI] No OpenAI client available - using fallback.
+[2025-08-10T09:13:43.102404 UTC] [AI] Using fallback brain for prompt: jobs exit
+[2025-08-10T09:13:43.864155 UTC] [Listener] calibrating ambient noise...
+[2025-08-10T09:13:44.274968 UTC] [Listener] energy threshold: 141.9223811478916
