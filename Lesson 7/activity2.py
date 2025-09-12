@@ -10,18 +10,20 @@ def passer(myList: list) -> bool:
     index = 0
     myEmptyDict = {}
     for iterator in myList:
-        for char in iterator:
-            number += 1
-        if number > 2:
-            if iterator[0] == iterator[-1]:
-                myEmptyDict[myList.index(iterator)] = [[iterator], [list.count(iterator)]] # Value1 = Word
-                # name, Value2 = No. of times of occurences
-        else:
-            break
+        iterator = str(iterator)
+        if iterator != None and [iterator, myList.count(iterator)] not in myEmptyDict.values():
+            for char in iterator:
+                number += 1
+            if number > 2:
+                if iterator[0] == iterator[-1]:
+                    myEmptyDict[index] = [iterator, myList.count(iterator)] # Value1 = Word
+                    # name, Value2 = No. of times of occurences
+            else:
+                break
+            index+=1
 
     return myEmptyDict
 
 
-
-myWordsList = ["and", "hi", "bob"]
+myWordsList = ["and", "hi", "bob", "bob", None, 6, 6, 424, "hello, my name is noah", "finer", "racecar"]
 print(passer(myWordsList))
