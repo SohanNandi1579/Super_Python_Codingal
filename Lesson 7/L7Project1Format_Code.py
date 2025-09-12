@@ -4,7 +4,7 @@ myList = []
 myOddList = []
 myEvenList = []
 for counter in range(s, e+1):
-    myList.append(counter^2)
+    myList.append(counter * counter)
 
 
 for element in myList:
@@ -12,3 +12,5 @@ for element in myList:
         myEvenList.append(element)
     else:
         myOddList.append(element)
+
+print(myOddList, myEvenList)
