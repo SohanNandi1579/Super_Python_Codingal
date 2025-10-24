@@ -33,10 +33,14 @@ while True:
     print("Let's play: ")
     if chooser == "aics":
         piece = random.randint(0, 9)
-        orBoard2[piece] = "O"
+        orBoard2[piece] = "0"
         print(listtoboard(orBoard2))
 
-        enter_user =
+        enter_user = input(f"{listtoboard(orBoard2)}\n\tHere, enter which position you want in exactly the same format as the board is written: ")
+        position = orBoard2.index(enter_user.join().casefold())
+        orBoard2[position] = "X"
+        
+
 
 
 
