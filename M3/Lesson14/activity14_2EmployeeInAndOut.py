@@ -22,6 +22,9 @@ class SchoolOfCriminals:
     #         print("\n"* 50)
     #     print(random.choice[])
 
+class CriminalsManagement:
+    def __init
+
 emp1 = SchoolOfCriminals("Criminal", "12", "Department of Masterminded Criminal Activities", "100000000000 USD")
 emp1.confidential()
 del emp1
