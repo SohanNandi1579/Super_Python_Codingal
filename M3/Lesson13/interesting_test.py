@@ -42,6 +42,5 @@ for letter in ("""qsjou("Ifmmp Xpsme@")"""):
 
 
 with open(stringy.txt, "w"):
-
-print(stringy)
+    print(stringy)
 
