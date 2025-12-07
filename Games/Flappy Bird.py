@@ -327,3 +327,4 @@ while True:
     for e in pygame.event.get(): game.handle_event(e)
     game.update(dt)
     game.draw()
+
