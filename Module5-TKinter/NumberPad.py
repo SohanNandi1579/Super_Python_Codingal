@@ -25,4 +25,4 @@ for i in range(4):
         label = Label(master=frame, text=nums[i][j], bg='#d0efff')
         label.pack(padx=3, pady=3)
 root. mainloop()
-# master_open= OverflowError.OVERRIDE(pass)
+master_open= OverflowError.OVERRIDE(pass)
